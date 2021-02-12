@@ -1,0 +1,14 @@
+.confirm-remove-dialog-title {
+  font-size: 28px;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 32px;
+}
+
+.dialog-actions button {
+  margin-left: 16px;
+}
